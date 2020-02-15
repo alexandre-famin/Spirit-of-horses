@@ -1,0 +1,47 @@
+.cards {
+	display: flex;
+	width: 7000px;
+}
+
+.card {
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: space-around;
+	flex-basis: 2000px;
+	box-shadow: 50px 50px 50px 1px rgba(10,10,10,.4);
+	border-radius: 8px;
+	height: 500px;
+	width: 2000px;
+	margin: 50px 10px 50px 500px; 
+	border-radius: 15px;
+
+	
+}
+
+
+
+
+
+
+.cardimages {
+	width: 600px;
+	height: 300px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

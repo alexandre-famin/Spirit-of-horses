@@ -1,0 +1,65 @@
+.contact{
+  box-shadow: 40px 40px 40px 40px rgba(10,10,10,0.2);
+  width: 1500px;
+  height: 3900px;
+  margin: 100px 10px 500px 3000px; 
+  text-align: center;
+  border-radius: 40px;
+}
+
+.title {
+  color: grey;
+  font-size: 150px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+
+
+.liste {
+	margin: 10px; 
+	text-align: center;
+	list-style: none;  
+	font-size: 400px; 
+	line-height: 100px;
+
+}
+
+.liste a {
+	font-size: 180px; 
+}
+
+.liste li:hover a {
+	color: rgb(178,177,146);
+	font-size: 180px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

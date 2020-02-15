@@ -1,0 +1,65 @@
+.banner {
+	background-image: linear-gradient(180deg, rgba(0,0,0,1), rgba(0,0,0,0)), url(../../images/banner.jpeg);
+	padding: 10px 10px 10px 10px;
+	background-size: cover;
+	background-position: center;
+	width: 7650px;
+	height: 3800px;
+
+}
+
+.banner h1 {
+	font-size: 200px;
+	font-family: 'Cinzel', serif;
+	color: white;
+	text-align: justify;
+	margin: 500px 1000px 100px 3000px;
+
+}
+
+.banner h2 {
+	font-family: 'Gelasio', serif;
+	font-size: 140px; 
+	color: white;
+	font-weight: lighter;
+	opacity: .9;
+	margin-bottom: 10px; 
+	text-align: justify;
+	margin: 100px 100px 50px 2500px;
+	width: 3000px;
+
+
+}
+
+.banner a {
+	text-align: center;
+}
+
+@media (max-width: 1200px){
+	.banner #containerA {
+		width: 100px;
+	}
+}
+
+@media (max-width: 960px) {
+	.banner #containerA {
+		width: 100px;
+	}
+}
+
+@media (max-width: 720px) {
+	.banner #containerA {
+		width: 100px;
+	}
+}
+
+@media (max-width: 540px){
+	.banner #containerA {
+		width: 100px;
+	}
+}
+
+
+
+
+
